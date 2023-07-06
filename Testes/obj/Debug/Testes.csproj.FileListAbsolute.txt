@@ -1,0 +1,23 @@
+D:\Rey Leal\Documents\ReyProjects\LeantusClinicas\Testes\obj\Debug\ResolveAssemblyReference.cache
+D:\Rey Leal\Documents\ReyProjects\LeantusClinicas\Testes\bin\Debug\Testes.dll
+D:\Rey Leal\Documents\ReyProjects\LeantusClinicas\Testes\bin\Debug\Testes.pdb
+D:\Rey Leal\Documents\ReyProjects\LeantusClinicas\Testes\bin\Debug\LeantusClinicas.exe
+D:\Rey Leal\Documents\ReyProjects\LeantusClinicas\Testes\bin\Debug\LeantusClinicas.pdb
+D:\Rey Leal\Documents\ReyProjects\LeantusClinicas\Testes\obj\Debug\Testes.dll
+D:\Rey Leal\Documents\ReyProjects\LeantusClinicas\Testes\obj\Debug\Testes.pdb
+D:\Rey Leal\Documents\ReyProjects\LeantusClinicas\Testes\bin\Debug\LeantusClinicas.mdf
+D:\Rey Leal\Documents\ReyProjects\LeantusClinicas\Testes\bin\Debug\LeantusClinicas_log.ldf
+D:\Rey Leal\Documents\Projects Desktop\LeantusClinicas\Testes\bin\Debug\Testes.dll
+D:\Rey Leal\Documents\Projects Desktop\LeantusClinicas\Testes\bin\Debug\Testes.pdb
+D:\Rey Leal\Documents\Projects Desktop\LeantusClinicas\Testes\bin\Debug\LeantusClinicas.exe
+D:\Rey Leal\Documents\Projects Desktop\LeantusClinicas\Testes\bin\Debug\LeantusClinicas.pdb
+D:\Rey Leal\Documents\Projects Desktop\LeantusClinicas\Testes\obj\Debug\ResolveAssemblyReference.cache
+D:\Rey Leal\Documents\Projects Desktop\LeantusClinicas\Testes\obj\Debug\Testes.dll
+D:\Rey Leal\Documents\Projects Desktop\LeantusClinicas\Testes\obj\Debug\Testes.pdb
+D:\Rey Leal\Documents\Projects Desktop\LeantusClinicase\Testes\bin\Debug\Testes.dll
+D:\Rey Leal\Documents\Projects Desktop\LeantusClinicase\Testes\bin\Debug\Testes.pdb
+D:\Rey Leal\Documents\Projects Desktop\LeantusClinicase\Testes\bin\Debug\LeantusClinicas.exe
+D:\Rey Leal\Documents\Projects Desktop\LeantusClinicase\Testes\bin\Debug\LeantusClinicas.pdb
+D:\Rey Leal\Documents\Projects Desktop\LeantusClinicase\Testes\obj\Debug\ResolveAssemblyReference.cache
+D:\Rey Leal\Documents\Projects Desktop\LeantusClinicase\Testes\obj\Debug\Testes.dll
+D:\Rey Leal\Documents\Projects Desktop\LeantusClinicase\Testes\obj\Debug\Testes.pdb
